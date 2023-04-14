@@ -1,0 +1,8 @@
+Para a realização desse projeto será necessario instalar esseas bibliotecas 
+
+!pip install statsmodels
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import statsmodels.api as sm
+from sklearn.linear_model import Ridge
