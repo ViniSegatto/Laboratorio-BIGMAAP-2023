@@ -14,3 +14,5 @@ Para executar o projeto, é necessário instalar as dependências contidas no ar
 Os resultados obtidos com o modelo treinado serão apresentados na visualização gráfica gerada pelo script "main.py".
 
 Agradeço a oportunidade de participar do desafio técnico do processo seletivo discente do Laboratório BigMAAp e espero ter atendido às expectativas. Qualquer dúvida ou sugestão, estou à disposição.
+
+Ainda preciso aperfeiçoar o codigo e fazer melhorias e limpar mais o codigo, porém não tive muito tempo para isso até o momento, assim que possivel irei fazendo melhorias no codigo. 
